@@ -1,4 +1,4 @@
-## Personal Budget Calculator 💻
+## Personal Budget Calculator 💰
 
 Aplicativo web criado para gerenciar um orçamento pessoal mensal.
 
